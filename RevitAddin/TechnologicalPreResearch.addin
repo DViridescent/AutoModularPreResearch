@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>TechnologicalPreResearch</Name>
+		<Description>TechnologicalPreResearch</Description>
+		<Assembly>TechnologicalPreResearch\ArchiAlpha.AutoModular.PreResearch.Revit.dll</Assembly>
+		<FullClassName>ArchiAlpha.AutoModular.PreResearch.Revit.Entry.App</FullClassName>
+		<ClientId>E89806AE-5611-ACCE-CBFB-5C3EF532A9B3</ClientId>
+		<VendorId>AutoModular</VendorId>
+		<VendorDescription>技术预研使用</VendorDescription>
+	</AddIn>
+</RevitAddIns>

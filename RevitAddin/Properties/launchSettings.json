@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Revit-wzw": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Autodesk\\Revit 2018\\Revit.exe",
+      "commandLineArgs": "/language\r\nCHS",
+      "workingDirectory": "E:\\Autodesk\\Revit 2018\\"
+    }
+  }
+}
